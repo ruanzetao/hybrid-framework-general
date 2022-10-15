@@ -1,0 +1,755 @@
+[INFO ] [2022-10-11 17:44:41,111] Testcase: class com.nopcommerce.user.Suite_04_Register_Login
+[INFO ] [2022-10-11 17:44:41,112] Step: click to Register Link
+[INFO ] [2022-10-11 17:44:41,760] Step: click to Register button
+[INFO ] [2022-10-11 17:44:42,078] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-11 17:44:42,172] Step: Input to LastName textbox: XSang
+[INFO ] [2022-10-11 17:44:42,260] Step: Input to Email textbox: seleniumonline1200@mailinator.com
+[INFO ] [2022-10-11 17:44:42,369] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-11 17:44:42,470] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-11 17:44:42,559] Step: click to Register button
+[INFO ] [2022-10-11 17:44:43,341] Step: Assert the results
+[INFO ] [2022-10-11 17:44:43,411] Step: click to Logout button
+[INFO ] [2022-10-11 17:44:44,338] Step: click to Login link
+[INFO ] [2022-10-11 17:44:44,841] Step: input to Email textbox: seleniumonline1200@mailinator.com
+[INFO ] [2022-10-11 17:44:44,924] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-11 17:44:45,010] Step: click to Login button
+[INFO ] [2022-10-11 17:44:45,738] Step: assert the Results
+[INFO ] [2022-10-11 17:44:45,813] OS name = windows 10
+[INFO ] [2022-10-11 17:44:45,813] Driver instance name = firefoxdriver: firefox on windows (4d0fd652-aad3-4e30-961a-684086f0c2a1)
+[INFO ] [2022-10-11 22:13:45,588] OS name = windows 10
+[INFO ] [2022-10-11 22:13:45,589] 
+[INFO ] [2022-10-11 22:14:14,122] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-11 22:14:14,123] Step: click to Register Link
+[INFO ] [2022-10-11 22:14:14,764] Step: click to Register button
+[INFO ] [2022-10-11 22:14:15,069] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-11 22:14:15,150] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-11 22:14:15,240] Step: Input to Email textbox: seleniumonline54117@mailinator.com
+[INFO ] [2022-10-11 22:14:15,365] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-11 22:14:15,464] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-11 22:14:15,556] Step: click to Register button
+[INFO ] [2022-10-11 22:14:16,405] Step: Assert the results
+[INFO ] [2022-10-11 22:14:16,454] Step: click to Logout button
+[INFO ] [2022-10-11 22:14:17,195] Step: click to Login link
+[INFO ] [2022-10-11 22:14:17,702] Step: input to Email textboxseleniumonline54117@mailinator.com
+[INFO ] [2022-10-11 22:14:17,785] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-11 22:14:17,871] Step: click to Login button
+[INFO ] [2022-10-11 22:14:18,621] Step: assert the Results
+[INFO ] [2022-10-11 22:14:20,838] Step: click to Save button
+[INFO ] [2022-10-11 22:14:21,793] Step: open My Account menu: Addresses
+[INFO ] [2022-10-11 22:14:51,848] OS name = windows 10
+[INFO ] [2022-10-11 22:14:51,848] Driver instance name = firefoxdriver: firefox on windows (e1ae59c0-ae33-4b3f-9672-5489278c9631)
+[INFO ] [2022-10-11 22:28:04,266] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-11 22:28:04,266] Step: click to Register Link
+[INFO ] [2022-10-11 22:28:04,800] Step: click to Register button
+[INFO ] [2022-10-11 22:28:05,104] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-11 22:28:05,195] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-11 22:28:05,288] Step: Input to Email textbox: seleniumonline84261@mailinator.com
+[INFO ] [2022-10-11 22:28:05,411] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-11 22:28:05,494] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-11 22:28:05,585] Step: click to Register button
+[INFO ] [2022-10-11 22:28:06,435] Step: Assert the results
+[INFO ] [2022-10-11 22:28:06,493] Step: click to Logout button
+[INFO ] [2022-10-11 22:28:07,321] Step: click to Login link
+[INFO ] [2022-10-11 22:28:07,844] Step: input to Email textboxseleniumonline84261@mailinator.com
+[INFO ] [2022-10-11 22:28:07,938] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-11 22:28:08,025] Step: click to Login button
+[INFO ] [2022-10-11 22:28:08,801] Step: assert the Results
+[INFO ] [2022-10-11 22:28:10,927] Step: click to Save button
+[INFO ] [2022-10-11 22:28:11,745] Step: open My Account menu: Addresses
+[INFO ] [2022-10-11 22:28:12,386] Step: change driver to Addresses page
+[INFO ] [2022-10-11 22:28:12,387] Step: click to Add New button
+[INFO ] [2022-10-11 22:28:12,920] Step: input to required Fields
+[INFO ] [2022-10-11 22:28:43,359] OS name = windows 10
+[INFO ] [2022-10-11 22:28:43,359] Driver instance name = firefoxdriver: firefox on windows (6bbf6d9b-d5f3-4bbf-9370-b767fc0d4698)
+[INFO ] [2022-10-11 22:30:26,369] OS name = windows 10
+[INFO ] [2022-10-11 22:30:26,370] 
+[INFO ] [2022-10-11 22:30:40,189] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-11 22:30:40,190] Step: click to Register Link
+[INFO ] [2022-10-11 22:30:40,825] Step: click to Register button
+[INFO ] [2022-10-11 22:30:41,119] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-11 22:30:41,205] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-11 22:30:41,318] Step: Input to Email textbox: seleniumonline40184@mailinator.com
+[INFO ] [2022-10-11 22:30:41,478] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-11 22:30:41,560] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-11 22:30:41,655] Step: click to Register button
+[INFO ] [2022-10-11 22:30:42,493] Step: Assert the results
+[INFO ] [2022-10-11 22:30:42,538] Step: click to Logout button
+[INFO ] [2022-10-11 22:30:43,284] Step: click to Login link
+[INFO ] [2022-10-11 22:30:44,010] Step: input to Email textboxseleniumonline40184@mailinator.com
+[INFO ] [2022-10-11 22:30:44,099] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-11 22:30:44,188] Step: click to Login button
+[INFO ] [2022-10-11 22:30:44,919] Step: assert the Results
+[INFO ] [2022-10-11 22:30:47,110] Step: click to Save button
+[INFO ] [2022-10-11 22:30:47,899] Step: open My Account menu: Addresses
+[INFO ] [2022-10-11 22:30:48,402] Step: change driver to Addresses page
+[INFO ] [2022-10-11 22:30:48,402] Step: click to Add New button
+[INFO ] [2022-10-11 22:30:48,955] Step: input to required Fields
+[INFO ] [2022-10-11 22:30:50,143] Step: click to Save button
+[INFO ] [2022-10-11 22:30:51,825] Step: assert the Results
+[INFO ] [2022-10-11 22:30:51,835] OS name = windows 10
+[INFO ] [2022-10-11 22:30:51,835] Driver instance name = firefoxdriver: firefox on windows (df005b30-ef9b-4a37-a739-0829059ed8b1)
+[INFO ] [2022-10-12 11:22:31,743] OS name = windows 10
+[INFO ] [2022-10-12 11:22:31,745] 
+[INFO ] [2022-10-12 11:22:49,190] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 11:22:49,191] Step: click to Register Link
+[INFO ] [2022-10-12 11:22:49,766] Step: click to Register button
+[INFO ] [2022-10-12 11:22:50,068] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 11:22:50,157] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 11:22:50,250] Step: Input to Email textbox: seleniumonline69184@mailinator.com
+[INFO ] [2022-10-12 11:22:50,366] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:22:50,460] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 11:22:50,550] Step: click to Register button
+[INFO ] [2022-10-12 11:22:51,370] Step: Assert the results
+[INFO ] [2022-10-12 11:22:51,418] Step: click to Logout button
+[INFO ] [2022-10-12 11:22:52,145] Step: click to Login link
+[INFO ] [2022-10-12 11:22:52,619] Step: input to Email textboxseleniumonline69184@mailinator.com
+[INFO ] [2022-10-12 11:22:52,719] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:22:52,802] Step: click to Login button
+[INFO ] [2022-10-12 11:22:53,549] Step: assert the Results
+[INFO ] [2022-10-12 11:22:55,777] Step: click to Save button
+[INFO ] [2022-10-12 11:22:56,541] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 11:22:57,026] Step: change driver to Addresses page
+[INFO ] [2022-10-12 11:22:57,027] Step: click to Add New button
+[INFO ] [2022-10-12 11:22:57,649] Step: input to required Fields
+[INFO ] [2022-10-12 11:22:58,925] Step: click to Save button
+[INFO ] [2022-10-12 11:22:59,673] Step: assert the Results
+[INFO ] [2022-10-12 11:22:59,677] Step: open My Account menu: Change Password
+[INFO ] [2022-10-12 11:23:00,233] Step: input to mandatory Fields
+[INFO ] [2022-10-12 11:23:00,905] Step: Logout and Login again
+[INFO ] [2022-10-12 11:23:01,006] OS name = windows 10
+[INFO ] [2022-10-12 11:23:01,006] Driver instance name = firefoxdriver: firefox on windows (c705c3b1-c02f-41f2-98a4-9977b469d699)
+[INFO ] [2022-10-12 11:23:37,173] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 11:23:37,173] Step: click to Register Link
+[INFO ] [2022-10-12 11:23:37,738] Step: click to Register button
+[INFO ] [2022-10-12 11:23:38,040] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 11:23:38,128] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 11:23:38,222] Step: Input to Email textbox: seleniumonline17167@mailinator.com
+[INFO ] [2022-10-12 11:23:38,344] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:23:38,462] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 11:23:38,550] Step: click to Register button
+[INFO ] [2022-10-12 11:23:39,388] Step: Assert the results
+[INFO ] [2022-10-12 11:23:39,434] Step: click to Logout button
+[INFO ] [2022-10-12 11:23:40,178] Step: click to Login link
+[INFO ] [2022-10-12 11:23:40,656] Step: input to Email textboxseleniumonline17167@mailinator.com
+[INFO ] [2022-10-12 11:23:40,751] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:23:40,837] Step: click to Login button
+[INFO ] [2022-10-12 11:23:41,627] Step: assert the Results
+[INFO ] [2022-10-12 11:23:43,734] Step: click to Save button
+[INFO ] [2022-10-12 11:23:44,571] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 11:23:45,098] Step: change driver to Addresses page
+[INFO ] [2022-10-12 11:23:45,099] Step: click to Add New button
+[INFO ] [2022-10-12 11:23:45,654] Step: input to required Fields
+[INFO ] [2022-10-12 11:23:46,794] Step: click to Save button
+[INFO ] [2022-10-12 11:23:47,070] Step: assert the Results
+[INFO ] [2022-10-12 11:23:47,078] Step: open My Account menu: Change Password
+[INFO ] [2022-10-12 11:23:47,616] Step: input to mandatory Fields
+[INFO ] [2022-10-12 11:23:48,290] Step: Logout and Login again
+[INFO ] [2022-10-12 11:23:48,398] OS name = windows 10
+[INFO ] [2022-10-12 11:23:48,398] Driver instance name = firefoxdriver: firefox on windows (99bf8c5d-198d-4bcf-9130-78d5e0f326ff)
+[INFO ] [2022-10-12 11:35:59,840] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 11:35:59,841] Step: click to Register Link
+[INFO ] [2022-10-12 11:36:00,524] Step: click to Register button
+[INFO ] [2022-10-12 11:36:00,832] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 11:36:00,925] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 11:36:01,015] Step: Input to Email textbox: seleniumonline59834@mailinator.com
+[INFO ] [2022-10-12 11:36:01,131] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:36:01,222] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 11:36:01,314] Step: click to Register button
+[INFO ] [2022-10-12 11:36:02,129] Step: Assert the results
+[INFO ] [2022-10-12 11:36:02,175] Step: click to Logout button
+[INFO ] [2022-10-12 11:36:02,883] Step: click to Login link
+[INFO ] [2022-10-12 11:36:03,432] Step: input to Email textboxseleniumonline59834@mailinator.com
+[INFO ] [2022-10-12 11:36:03,541] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:36:03,625] Step: click to Login button
+[INFO ] [2022-10-12 11:36:04,361] Step: assert the Results
+[INFO ] [2022-10-12 11:36:06,500] Step: click to Save button
+[INFO ] [2022-10-12 11:36:07,369] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 11:36:07,884] Step: change driver to Addresses page
+[INFO ] [2022-10-12 11:36:07,884] Step: click to Add New button
+[INFO ] [2022-10-12 11:36:08,451] Step: input to required Fields
+[INFO ] [2022-10-12 11:36:09,576] Step: click to Save button
+[INFO ] [2022-10-12 11:36:09,873] Step: assert the Results
+[INFO ] [2022-10-12 11:36:09,877] Step: open My Account menu: Change Password
+[INFO ] [2022-10-12 11:36:10,422] Step: input to mandatory Fields
+[INFO ] [2022-10-12 11:36:11,112] Step: Logout and Login again
+[INFO ] [2022-10-12 11:36:11,243] OS name = windows 10
+[INFO ] [2022-10-12 11:36:11,244] Driver instance name = firefoxdriver: firefox on windows (867d2a5e-d176-4c19-ad7e-78769b149563)
+[INFO ] [2022-10-12 11:36:54,206] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 11:36:54,206] Step: click to Register Link
+[INFO ] [2022-10-12 11:36:54,755] Step: click to Register button
+[INFO ] [2022-10-12 11:36:55,070] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 11:36:55,164] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 11:36:55,258] Step: Input to Email textbox: seleniumonline14199@mailinator.com
+[INFO ] [2022-10-12 11:36:55,381] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:36:55,473] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 11:36:55,564] Step: click to Register button
+[INFO ] [2022-10-12 11:36:56,406] Step: Assert the results
+[INFO ] [2022-10-12 11:36:56,461] Step: click to Logout button
+[INFO ] [2022-10-12 11:36:57,139] Step: click to Login link
+[INFO ] [2022-10-12 11:36:57,647] Step: input to Email textboxseleniumonline14199@mailinator.com
+[INFO ] [2022-10-12 11:36:57,741] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:36:57,827] Step: click to Login button
+[INFO ] [2022-10-12 11:36:58,573] Step: assert the Results
+[INFO ] [2022-10-12 11:37:00,796] Step: click to Save button
+[INFO ] [2022-10-12 11:37:01,604] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 11:37:02,117] Step: change driver to Addresses page
+[INFO ] [2022-10-12 11:37:02,118] Step: click to Add New button
+[INFO ] [2022-10-12 11:37:02,677] Step: input to required Fields
+[INFO ] [2022-10-12 11:37:03,954] Step: click to Save button
+[INFO ] [2022-10-12 11:37:05,063] Step: assert the Results
+[INFO ] [2022-10-12 11:37:05,069] Step: open My Account menu: Change Password
+[INFO ] [2022-10-12 11:37:05,576] Step: input to mandatory Fields
+[INFO ] [2022-10-12 11:37:06,258] Step: Logout and Login again
+[INFO ] [2022-10-12 11:37:06,424] OS name = windows 10
+[INFO ] [2022-10-12 11:37:06,425] Driver instance name = firefoxdriver: firefox on windows (f8ffb9e6-7432-4bb1-a1da-69b5991c2d34)
+[INFO ] [2022-10-12 11:39:02,981] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 11:39:02,981] Step: click to Register Link
+[INFO ] [2022-10-12 11:39:03,554] Step: click to Register button
+[INFO ] [2022-10-12 11:39:03,854] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 11:39:03,936] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 11:39:04,030] Step: Input to Email textbox: seleniumonline42975@mailinator.com
+[INFO ] [2022-10-12 11:39:04,172] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:39:04,264] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 11:39:04,360] Step: click to Register button
+[INFO ] [2022-10-12 11:39:05,153] Step: Assert the results
+[INFO ] [2022-10-12 11:39:05,204] Step: click to Logout button
+[INFO ] [2022-10-12 11:39:05,913] Step: click to Login link
+[INFO ] [2022-10-12 11:39:06,427] Step: input to Email textboxseleniumonline42975@mailinator.com
+[INFO ] [2022-10-12 11:39:06,528] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:39:06,614] Step: click to Login button
+[INFO ] [2022-10-12 11:39:07,356] Step: assert the Results
+[INFO ] [2022-10-12 11:39:09,598] Step: click to Save button
+[INFO ] [2022-10-12 11:39:10,420] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 11:39:10,953] Step: change driver to Addresses page
+[INFO ] [2022-10-12 11:39:10,953] Step: click to Add New button
+[INFO ] [2022-10-12 11:39:11,501] Step: input to required Fields
+[INFO ] [2022-10-12 11:39:12,728] Step: click to Save button
+[INFO ] [2022-10-12 11:39:13,556] Step: assert the Results
+[INFO ] [2022-10-12 11:39:13,562] Step: open My Account menu: Change Password
+[INFO ] [2022-10-12 11:39:14,052] Step: input to mandatory Fields
+[INFO ] [2022-10-12 11:39:14,789] Step: Logout and Login again
+[INFO ] [2022-10-12 11:39:14,954] OS name = windows 10
+[INFO ] [2022-10-12 11:39:14,955] Driver instance name = firefoxdriver: firefox on windows (63e1c540-da27-4304-9050-8fb31d868d0e)
+[INFO ] [2022-10-12 11:45:43,868] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 11:45:43,869] Step: click to Register Link
+[INFO ] [2022-10-12 11:45:44,421] Step: click to Register button
+[INFO ] [2022-10-12 11:45:44,742] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 11:45:44,834] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 11:45:44,924] Step: Input to Email textbox: seleniumonline43861@mailinator.com
+[INFO ] [2022-10-12 11:45:45,038] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:45:45,135] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 11:45:45,225] Step: click to Register button
+[INFO ] [2022-10-12 11:45:46,023] Step: Assert the results
+[INFO ] [2022-10-12 11:45:46,077] Step: click to Logout button
+[INFO ] [2022-10-12 11:45:46,788] Step: click to Login link
+[INFO ] [2022-10-12 11:45:47,376] Step: input to Email textboxseleniumonline43861@mailinator.com
+[INFO ] [2022-10-12 11:45:47,481] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:45:47,558] Step: click to Login button
+[INFO ] [2022-10-12 11:45:48,275] Step: assert the Results
+[INFO ] [2022-10-12 11:45:50,496] Step: click to Save button
+[INFO ] [2022-10-12 11:45:51,331] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 11:45:51,833] Step: change driver to Addresses page
+[INFO ] [2022-10-12 11:45:51,833] Step: click to Add New button
+[INFO ] [2022-10-12 11:45:52,362] Step: input to required Fields
+[INFO ] [2022-10-12 11:45:53,587] Step: click to Save button
+[INFO ] [2022-10-12 11:45:54,364] Step: assert the Results
+[INFO ] [2022-10-12 11:45:54,369] Step: open My Account menu: Change Password
+[INFO ] [2022-10-12 11:45:54,855] Step: input to mandatory Fields
+[INFO ] [2022-10-12 11:45:55,816] Step: Logout and Login again
+[INFO ] [2022-10-12 11:45:55,900] OS name = windows 10
+[INFO ] [2022-10-12 11:45:55,901] Driver instance name = firefoxdriver: firefox on windows (9050a271-9b5b-457b-99c6-44cb2a95f531)
+[INFO ] [2022-10-12 11:47:29,210] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 11:47:29,211] Step: click to Register Link
+[INFO ] [2022-10-12 11:47:29,897] Step: click to Register button
+[INFO ] [2022-10-12 11:47:30,213] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 11:47:30,306] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 11:47:30,398] Step: Input to Email textbox: seleniumonline49205@mailinator.com
+[INFO ] [2022-10-12 11:47:30,515] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:47:30,603] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 11:47:30,695] Step: click to Register button
+[INFO ] [2022-10-12 11:47:31,512] Step: Assert the results
+[INFO ] [2022-10-12 11:47:31,561] Step: click to Logout button
+[INFO ] [2022-10-12 11:47:32,333] Step: click to Login link
+[INFO ] [2022-10-12 11:47:32,815] Step: input to Email textboxseleniumonline49205@mailinator.com
+[INFO ] [2022-10-12 11:47:32,913] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:47:33,000] Step: click to Login button
+[INFO ] [2022-10-12 11:47:33,730] Step: assert the Results
+[INFO ] [2022-10-12 11:47:35,831] Step: click to Save button
+[INFO ] [2022-10-12 11:47:36,612] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 11:47:37,178] Step: change driver to Addresses page
+[INFO ] [2022-10-12 11:47:37,179] Step: click to Add New button
+[INFO ] [2022-10-12 11:47:37,774] Step: input to required Fields
+[INFO ] [2022-10-12 11:47:38,962] Step: click to Save button
+[INFO ] [2022-10-12 11:47:39,752] Step: assert the Results
+[INFO ] [2022-10-12 11:47:39,757] Step: open My Account menu: Change Password
+[INFO ] [2022-10-12 11:47:40,600] Step: input to mandatory Fields
+[INFO ] [2022-10-12 11:47:41,949] Step: Logout and Login again
+[INFO ] [2022-10-12 11:47:42,047] OS name = windows 10
+[INFO ] [2022-10-12 11:47:42,048] Driver instance name = firefoxdriver: firefox on windows (fb146b86-2d05-4c59-b015-d20b9666ceec)
+[INFO ] [2022-10-12 11:48:34,963] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 11:48:34,964] Step: click to Register Link
+[INFO ] [2022-10-12 11:48:36,350] Step: click to Register button
+[INFO ] [2022-10-12 11:48:36,646] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 11:48:36,730] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 11:48:36,820] Step: Input to Email textbox: seleniumonline14957@mailinator.com
+[INFO ] [2022-10-12 11:48:36,956] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:48:37,049] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 11:48:37,138] Step: click to Register button
+[INFO ] [2022-10-12 11:48:37,933] Step: Assert the results
+[INFO ] [2022-10-12 11:48:37,977] Step: click to Logout button
+[INFO ] [2022-10-12 11:48:38,734] Step: click to Login link
+[INFO ] [2022-10-12 11:48:39,312] Step: input to Email textboxseleniumonline14957@mailinator.com
+[INFO ] [2022-10-12 11:48:39,408] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:48:39,494] Step: click to Login button
+[INFO ] [2022-10-12 11:48:40,258] Step: assert the Results
+[INFO ] [2022-10-12 11:48:42,403] Step: click to Save button
+[INFO ] [2022-10-12 11:48:43,212] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 11:48:43,726] Step: change driver to Addresses page
+[INFO ] [2022-10-12 11:48:43,726] Step: click to Add New button
+[INFO ] [2022-10-12 11:48:44,272] Step: input to required Fields
+[INFO ] [2022-10-12 11:48:45,500] Step: click to Save button
+[INFO ] [2022-10-12 11:48:46,266] Step: assert the Results
+[INFO ] [2022-10-12 11:48:46,271] Step: open My Account menu: Change Password
+[INFO ] [2022-10-12 11:48:46,755] Step: input to mandatory Fields
+[INFO ] [2022-10-12 11:48:48,084] Step: Logout and Login again
+[INFO ] [2022-10-12 11:57:29,692] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 11:57:29,693] Step: click to Register Link
+[INFO ] [2022-10-12 11:57:30,281] Step: click to Register button
+[INFO ] [2022-10-12 11:57:30,579] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 11:57:30,664] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 11:57:30,757] Step: Input to Email textbox: seleniumonline49687@mailinator.com
+[INFO ] [2022-10-12 11:57:30,886] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:57:30,980] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 11:57:31,074] Step: click to Register button
+[INFO ] [2022-10-12 11:57:31,913] Step: Assert the results
+[INFO ] [2022-10-12 11:57:31,969] Step: click to Logout button
+[INFO ] [2022-10-12 11:57:32,668] Step: click to Login link
+[INFO ] [2022-10-12 11:57:33,209] Step: input to Email textboxseleniumonline49687@mailinator.com
+[INFO ] [2022-10-12 11:57:33,310] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 11:57:33,396] Step: click to Login button
+[INFO ] [2022-10-12 11:57:34,171] Step: assert the Results
+[INFO ] [2022-10-12 11:57:36,406] Step: click to Save button
+[INFO ] [2022-10-12 11:57:37,204] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 11:57:37,721] Step: change driver to Addresses page
+[INFO ] [2022-10-12 11:57:37,721] Step: click to Add New button
+[INFO ] [2022-10-12 11:57:38,444] Step: input to required Fields
+[INFO ] [2022-10-12 11:57:39,670] Step: click to Save button
+[INFO ] [2022-10-12 11:57:40,731] Step: assert the Results
+[INFO ] [2022-10-12 11:57:40,738] Step: open My Account menu: Change Password
+[INFO ] [2022-10-12 11:57:41,271] Step: input to mandatory Fields
+[INFO ] [2022-10-12 11:57:42,652] Step: Logout and Login again
+[INFO ] [2022-10-12 12:54:40,004] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 12:54:40,005] Step: click to Register Link
+[INFO ] [2022-10-12 12:54:41,300] Step: click to Register button
+[INFO ] [2022-10-12 12:54:41,586] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 12:54:41,670] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 12:54:41,760] Step: Input to Email textbox: seleniumonline80001@mailinator.com
+[INFO ] [2022-10-12 12:54:41,862] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 12:54:41,950] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 12:54:42,043] Step: click to Register button
+[INFO ] [2022-10-12 12:54:42,841] Step: Assert the results
+[INFO ] [2022-10-12 12:54:42,888] Step: click to Logout button
+[INFO ] [2022-10-12 12:54:43,563] Step: click to Login link
+[INFO ] [2022-10-12 12:54:44,022] Step: input to Email textboxseleniumonline80001@mailinator.com
+[INFO ] [2022-10-12 12:54:44,107] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 12:54:44,192] Step: click to Login button
+[INFO ] [2022-10-12 12:54:44,921] Step: assert the Results
+[INFO ] [2022-10-12 12:54:47,075] Step: click to Save button
+[INFO ] [2022-10-12 12:54:47,834] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 12:54:48,294] Step: change driver to Addresses page
+[INFO ] [2022-10-12 12:54:48,294] Step: click to Add New button
+[INFO ] [2022-10-12 12:54:48,825] Step: input to required Fields
+[INFO ] [2022-10-12 12:54:50,009] Step: click to Save button
+[INFO ] [2022-10-12 12:54:50,802] Step: assert the Results
+[INFO ] [2022-10-12 12:54:50,806] Step: open My Account menu: Change Password
+[INFO ] [2022-10-12 12:54:51,268] Step: input to mandatory Fields
+[INFO ] [2022-10-12 12:55:23,304] Step: Logout and Login again
+[INFO ] [2022-10-12 12:55:24,466] Step: Login with Old Password.
+[INFO ] [2022-10-12 12:55:24,643] Step: assert the Results
+[INFO ] [2022-10-12 12:55:24,643] Step: Login with New Password.
+[INFO ] [2022-10-12 12:55:25,249] Step: assert the Results
+[INFO ] [2022-10-12 12:55:25,252] OS name = windows 10
+[INFO ] [2022-10-12 12:55:25,252] Driver instance name = firefoxdriver: firefox on windows (4bfdeb9c-6a98-4353-994e-a5230af64398)
+[INFO ] [2022-10-12 14:30:25,059] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 14:30:25,060] Step: click to Register Link
+[INFO ] [2022-10-12 14:30:26,334] Step: click to Register button
+[INFO ] [2022-10-12 14:30:26,607] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 14:30:26,694] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 14:30:26,775] Step: Input to Email textbox: seleniumonline25055@mailinator.com
+[INFO ] [2022-10-12 14:30:26,887] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:30:26,977] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 14:30:27,068] Step: click to Register button
+[INFO ] [2022-10-12 14:30:27,827] Step: Assert the results
+[INFO ] [2022-10-12 14:30:27,872] Step: click to Logout button
+[INFO ] [2022-10-12 14:30:28,557] Step: click to Login link
+[INFO ] [2022-10-12 14:30:29,073] Step: input to Email textboxseleniumonline25055@mailinator.com
+[INFO ] [2022-10-12 14:30:29,159] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:30:29,243] Step: click to Login button
+[INFO ] [2022-10-12 14:30:29,954] Step: assert the Results
+[INFO ] [2022-10-12 14:30:32,035] Step: click to Save button
+[INFO ] [2022-10-12 14:30:32,786] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 14:30:33,295] Step: change driver to Addresses page
+[INFO ] [2022-10-12 14:30:33,295] Step: click to Add New button
+[INFO ] [2022-10-12 14:30:34,243] Step: input to required Fields
+[INFO ] [2022-10-12 14:30:35,439] Step: click to Save button
+[INFO ] [2022-10-12 14:30:36,354] Step: assert the Results
+[INFO ] [2022-10-12 14:30:46,732] OS name = windows 10
+[INFO ] [2022-10-12 14:30:46,732] Driver instance name = firefoxdriver: firefox on windows (04ffb185-def6-46f7-a4a3-3c7e7aa7d9c5)
+[INFO ] [2022-10-12 14:42:40,172] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 14:42:40,173] Step: click to Register Link
+[INFO ] [2022-10-12 14:42:41,513] Step: click to Register button
+[INFO ] [2022-10-12 14:42:41,794] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 14:42:41,881] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 14:42:41,971] Step: Input to Email textbox: seleniumonline60167@mailinator.com
+[INFO ] [2022-10-12 14:42:42,110] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:42:42,208] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 14:42:42,299] Step: click to Register button
+[INFO ] [2022-10-12 14:42:43,125] Step: Assert the results
+[INFO ] [2022-10-12 14:42:43,177] Step: click to Logout button
+[INFO ] [2022-10-12 14:42:43,959] Step: click to Login link
+[INFO ] [2022-10-12 14:42:44,464] Step: input to Email textboxseleniumonline60167@mailinator.com
+[INFO ] [2022-10-12 14:42:44,547] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:42:44,633] Step: click to Login button
+[INFO ] [2022-10-12 14:42:45,369] Step: assert the Results
+[INFO ] [2022-10-12 14:42:47,423] Step: click to Save button
+[INFO ] [2022-10-12 14:42:48,200] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 14:42:48,727] Step: change driver to Addresses page
+[INFO ] [2022-10-12 14:42:48,728] Step: click to Add New button
+[INFO ] [2022-10-12 14:42:49,251] Step: input to required Fields
+[INFO ] [2022-10-12 14:42:50,482] Step: click to Save button
+[INFO ] [2022-10-12 14:42:51,314] Step: assert the Results
+[INFO ] [2022-10-12 14:44:46,583] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 14:44:46,584] Step: click to Register Link
+[INFO ] [2022-10-12 14:44:47,097] Step: click to Register button
+[INFO ] [2022-10-12 14:44:47,383] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 14:44:47,470] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 14:44:47,561] Step: Input to Email textbox: seleniumonline86580@mailinator.com
+[INFO ] [2022-10-12 14:44:47,661] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:44:47,749] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 14:44:47,828] Step: click to Register button
+[INFO ] [2022-10-12 14:44:48,620] Step: Assert the results
+[INFO ] [2022-10-12 14:44:48,676] Step: click to Logout button
+[INFO ] [2022-10-12 14:44:49,376] Step: click to Login link
+[INFO ] [2022-10-12 14:44:49,907] Step: input to Email textboxseleniumonline86580@mailinator.com
+[INFO ] [2022-10-12 14:44:50,002] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:44:50,088] Step: click to Login button
+[INFO ] [2022-10-12 14:44:50,839] Step: assert the Results
+[INFO ] [2022-10-12 14:44:52,919] Step: click to Save button
+[INFO ] [2022-10-12 14:44:53,718] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 14:44:54,165] Step: change driver to Addresses page
+[INFO ] [2022-10-12 14:44:54,165] Step: click to Add New button
+[INFO ] [2022-10-12 14:44:54,712] Step: input to required Fields
+[INFO ] [2022-10-12 14:44:55,929] Step: click to Save button
+[INFO ] [2022-10-12 14:44:56,663] Step: assert the Results
+[INFO ] [2022-10-12 14:48:51,151] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 14:48:51,151] Step: click to Register Link
+[INFO ] [2022-10-12 14:48:51,745] Step: click to Register button
+[INFO ] [2022-10-12 14:48:52,021] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 14:48:52,117] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 14:48:52,221] Step: Input to Email textbox: seleniumonline31146@mailinator.com
+[INFO ] [2022-10-12 14:48:52,339] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:48:52,422] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 14:48:52,517] Step: click to Register button
+[INFO ] [2022-10-12 14:48:53,307] Step: Assert the results
+[INFO ] [2022-10-12 14:48:53,347] Step: click to Logout button
+[INFO ] [2022-10-12 14:48:54,058] Step: click to Login link
+[INFO ] [2022-10-12 14:48:54,515] Step: input to Email textboxseleniumonline31146@mailinator.com
+[INFO ] [2022-10-12 14:48:54,611] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:48:54,695] Step: click to Login button
+[INFO ] [2022-10-12 14:48:55,386] Step: assert the Results
+[INFO ] [2022-10-12 14:48:57,437] Step: click to Save button
+[INFO ] [2022-10-12 14:48:58,200] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 14:48:58,758] Step: change driver to Addresses page
+[INFO ] [2022-10-12 14:48:58,758] Step: click to Add New button
+[INFO ] [2022-10-12 14:48:59,272] Step: input to required Fields
+[INFO ] [2022-10-12 14:49:00,507] Step: click to Save button
+[INFO ] [2022-10-12 14:49:01,271] Step: assert the Results
+[INFO ] [2022-10-12 14:51:59,930] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 14:51:59,931] Step: click to Register Link
+[INFO ] [2022-10-12 14:52:00,786] Step: click to Register button
+[INFO ] [2022-10-12 14:52:01,067] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 14:52:01,157] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 14:52:01,247] Step: Input to Email textbox: seleniumonline19926@mailinator.com
+[INFO ] [2022-10-12 14:52:01,348] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:52:01,439] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 14:52:01,530] Step: click to Register button
+[INFO ] [2022-10-12 14:52:02,464] Step: Assert the results
+[INFO ] [2022-10-12 14:52:02,521] Step: click to Logout button
+[INFO ] [2022-10-12 14:52:03,243] Step: click to Login link
+[INFO ] [2022-10-12 14:52:03,705] Step: input to Email textboxseleniumonline19926@mailinator.com
+[INFO ] [2022-10-12 14:52:03,791] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:52:03,874] Step: click to Login button
+[INFO ] [2022-10-12 14:52:04,640] Step: assert the Results
+[INFO ] [2022-10-12 14:52:06,697] Step: click to Save button
+[INFO ] [2022-10-12 14:52:07,461] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 14:52:08,034] Step: change driver to Addresses page
+[INFO ] [2022-10-12 14:52:08,034] Step: click to Add New button
+[INFO ] [2022-10-12 14:52:08,574] Step: input to required Fields
+[INFO ] [2022-10-12 14:52:09,777] Step: click to Save button
+[INFO ] [2022-10-12 14:52:10,515] Step: assert the Results
+[INFO ] [2022-10-12 14:52:15,221] OS name = windows 10
+[INFO ] [2022-10-12 14:52:15,221] Driver instance name = firefoxdriver: firefox on windows (a2e9b6d1-ca96-4190-8e75-80a2171ef0ef)
+[INFO ] [2022-10-12 14:54:22,924] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 14:54:22,925] Step: click to Register Link
+[INFO ] [2022-10-12 14:54:23,446] Step: click to Register button
+[INFO ] [2022-10-12 14:54:23,733] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 14:54:23,820] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 14:54:23,912] Step: Input to Email textbox: seleniumonline62921@mailinator.com
+[INFO ] [2022-10-12 14:54:24,011] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:54:24,101] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 14:54:24,191] Step: click to Register button
+[INFO ] [2022-10-12 14:54:25,097] Step: Assert the results
+[INFO ] [2022-10-12 14:54:25,150] Step: click to Logout button
+[INFO ] [2022-10-12 14:54:25,833] Step: click to Login link
+[INFO ] [2022-10-12 14:54:26,313] Step: input to Email textboxseleniumonline62921@mailinator.com
+[INFO ] [2022-10-12 14:54:26,398] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:54:26,488] Step: click to Login button
+[INFO ] [2022-10-12 14:54:27,174] Step: assert the Results
+[INFO ] [2022-10-12 14:54:29,229] Step: click to Save button
+[INFO ] [2022-10-12 14:54:29,976] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 14:54:30,495] Step: change driver to Addresses page
+[INFO ] [2022-10-12 14:54:30,496] Step: click to Add New button
+[INFO ] [2022-10-12 14:54:31,036] Step: input to required Fields
+[INFO ] [2022-10-12 14:54:32,268] Step: click to Save button
+[INFO ] [2022-10-12 14:54:33,029] Step: assert the Results
+[INFO ] [2022-10-12 14:58:17,586] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 14:58:17,587] Step: click to Register Link
+[INFO ] [2022-10-12 14:58:18,875] Step: click to Register button
+[INFO ] [2022-10-12 14:58:19,149] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 14:58:19,237] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 14:58:19,313] Step: Input to Email textbox: seleniumonline97582@mailinator.com
+[INFO ] [2022-10-12 14:58:19,416] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:58:19,503] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 14:58:19,582] Step: click to Register button
+[INFO ] [2022-10-12 14:58:20,355] Step: Assert the results
+[INFO ] [2022-10-12 14:58:20,398] Step: click to Logout button
+[INFO ] [2022-10-12 14:58:21,111] Step: click to Login link
+[INFO ] [2022-10-12 14:58:21,661] Step: input to Email textboxseleniumonline97582@mailinator.com
+[INFO ] [2022-10-12 14:58:21,744] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 14:58:21,830] Step: click to Login button
+[INFO ] [2022-10-12 14:58:22,585] Step: assert the Results
+[INFO ] [2022-10-12 14:58:24,669] Step: click to Save button
+[INFO ] [2022-10-12 14:58:25,445] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 14:58:25,916] Step: change driver to Addresses page
+[INFO ] [2022-10-12 14:58:25,916] Step: click to Add New button
+[INFO ] [2022-10-12 14:58:26,481] Step: input to required Fields
+[INFO ] [2022-10-12 14:58:27,669] Step: click to Save button
+[INFO ] [2022-10-12 14:58:28,476] Step: assert the Results
+[INFO ] [2022-10-12 15:00:40,248] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 15:00:40,249] Step: click to Register Link
+[INFO ] [2022-10-12 15:00:41,654] Step: click to Register button
+[INFO ] [2022-10-12 15:00:41,940] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 15:00:42,024] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 15:00:42,116] Step: Input to Email textbox: seleniumonline40243@mailinator.com
+[INFO ] [2022-10-12 15:00:42,218] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 15:00:42,306] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 15:00:42,399] Step: click to Register button
+[INFO ] [2022-10-12 15:00:43,199] Step: Assert the results
+[INFO ] [2022-10-12 15:00:43,248] Step: click to Logout button
+[INFO ] [2022-10-12 15:00:43,936] Step: click to Login link
+[INFO ] [2022-10-12 15:00:44,409] Step: input to Email textboxseleniumonline40243@mailinator.com
+[INFO ] [2022-10-12 15:00:44,506] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 15:00:44,592] Step: click to Login button
+[INFO ] [2022-10-12 15:00:45,285] Step: assert the Results
+[INFO ] [2022-10-12 15:00:47,358] Step: click to Save button
+[INFO ] [2022-10-12 15:00:48,297] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 15:00:48,795] Step: change driver to Addresses page
+[INFO ] [2022-10-12 15:00:48,795] Step: click to Add New button
+[INFO ] [2022-10-12 15:00:49,396] Step: input to required Fields
+[INFO ] [2022-10-12 15:00:50,599] Step: click to Save button
+[INFO ] [2022-10-12 15:00:51,359] Step: assert the Results
+[INFO ] [2022-10-12 15:02:13,164] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 15:02:13,165] Step: click to Register Link
+[INFO ] [2022-10-12 15:02:13,681] Step: click to Register button
+[INFO ] [2022-10-12 15:02:13,961] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 15:02:14,048] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 15:02:14,125] Step: Input to Email textbox: seleniumonline33161@mailinator.com
+[INFO ] [2022-10-12 15:02:14,223] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 15:02:14,313] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 15:02:14,407] Step: click to Register button
+[INFO ] [2022-10-12 15:02:15,215] Step: Assert the results
+[INFO ] [2022-10-12 15:02:15,270] Step: click to Logout button
+[INFO ] [2022-10-12 15:02:15,982] Step: click to Login link
+[INFO ] [2022-10-12 15:02:16,459] Step: input to Email textboxseleniumonline33161@mailinator.com
+[INFO ] [2022-10-12 15:02:16,554] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 15:02:16,640] Step: click to Login button
+[INFO ] [2022-10-12 15:02:17,330] Step: assert the Results
+[INFO ] [2022-10-12 15:02:19,416] Step: click to Save button
+[INFO ] [2022-10-12 15:02:20,150] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 15:02:20,581] Step: change driver to Addresses page
+[INFO ] [2022-10-12 15:02:20,582] Step: click to Add New button
+[INFO ] [2022-10-12 15:02:21,083] Step: input to required Fields
+[INFO ] [2022-10-12 15:02:22,299] Step: click to Save button
+[INFO ] [2022-10-12 15:02:23,040] Step: assert the Results
+[INFO ] [2022-10-12 15:04:39,470] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 15:04:39,471] Step: click to Register Link
+[INFO ] [2022-10-12 15:04:40,823] Step: click to Register button
+[INFO ] [2022-10-12 15:04:41,112] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 15:04:41,202] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 15:04:41,294] Step: Input to Email textbox: seleniumonline79465@mailinator.com
+[INFO ] [2022-10-12 15:04:41,401] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 15:04:41,483] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 15:04:41,577] Step: click to Register button
+[INFO ] [2022-10-12 15:04:42,487] Step: Assert the results
+[INFO ] [2022-10-12 15:04:42,529] Step: click to Logout button
+[INFO ] [2022-10-12 15:04:43,258] Step: click to Login link
+[INFO ] [2022-10-12 15:04:43,731] Step: input to Email textboxseleniumonline79465@mailinator.com
+[INFO ] [2022-10-12 15:04:43,826] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 15:04:43,912] Step: click to Login button
+[INFO ] [2022-10-12 15:04:44,660] Step: assert the Results
+[INFO ] [2022-10-12 15:04:46,819] Step: click to Save button
+[INFO ] [2022-10-12 15:04:47,608] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 15:04:48,131] Step: change driver to Addresses page
+[INFO ] [2022-10-12 15:04:48,132] Step: click to Add New button
+[INFO ] [2022-10-12 15:04:48,689] Step: input to required Fields
+[INFO ] [2022-10-12 15:04:49,894] Step: click to Save button
+[INFO ] [2022-10-12 15:04:50,653] Step: assert the Results
+[INFO ] [2022-10-12 15:08:26,339] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 15:08:26,339] Step: click to Register Link
+[INFO ] [2022-10-12 15:08:27,703] Step: click to Register button
+[INFO ] [2022-10-12 15:08:27,976] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 15:08:28,064] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 15:08:28,158] Step: Input to Email textbox: seleniumonline6336@mailinator.com
+[INFO ] [2022-10-12 15:08:28,259] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 15:08:28,351] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 15:08:28,443] Step: click to Register button
+[INFO ] [2022-10-12 15:08:29,340] Step: Assert the results
+[INFO ] [2022-10-12 15:08:29,383] Step: click to Logout button
+[INFO ] [2022-10-12 15:08:30,103] Step: click to Login link
+[INFO ] [2022-10-12 15:08:30,671] Step: input to Email textboxseleniumonline6336@mailinator.com
+[INFO ] [2022-10-12 15:08:30,755] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 15:08:30,843] Step: click to Login button
+[INFO ] [2022-10-12 15:08:31,653] Step: assert the Results
+[INFO ] [2022-10-12 15:08:33,754] Step: click to Save button
+[INFO ] [2022-10-12 15:08:34,568] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 15:08:35,255] Step: change driver to Addresses page
+[INFO ] [2022-10-12 15:08:35,255] Step: click to Add New button
+[INFO ] [2022-10-12 15:08:35,819] Step: input to required Fields
+[INFO ] [2022-10-12 15:08:37,009] Step: click to Save button
+[INFO ] [2022-10-12 15:08:37,841] Step: assert the Results
+[INFO ] [2022-10-12 15:11:23,967] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 15:11:23,968] Step: click to Register Link
+[INFO ] [2022-10-12 15:11:25,275] Step: click to Register button
+[INFO ] [2022-10-12 15:11:25,547] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 15:11:25,630] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 15:11:25,721] Step: Input to Email textbox: seleniumonline83963@mailinator.com
+[INFO ] [2022-10-12 15:11:25,823] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 15:11:25,910] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 15:11:26,005] Step: click to Register button
+[INFO ] [2022-10-12 15:11:26,897] Step: Assert the results
+[INFO ] [2022-10-12 15:11:26,941] Step: click to Logout button
+[INFO ] [2022-10-12 15:11:27,623] Step: click to Login link
+[INFO ] [2022-10-12 15:11:28,080] Step: input to Email textboxseleniumonline83963@mailinator.com
+[INFO ] [2022-10-12 15:11:28,175] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 15:11:28,257] Step: click to Login button
+[INFO ] [2022-10-12 15:11:29,030] Step: assert the Results
+[INFO ] [2022-10-12 15:11:31,459] Step: click to Save button
+[INFO ] [2022-10-12 15:11:32,240] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 15:11:32,743] Step: change driver to Addresses page
+[INFO ] [2022-10-12 15:11:32,743] Step: click to Add New button
+[INFO ] [2022-10-12 15:11:33,263] Step: input to required Fields
+[INFO ] [2022-10-12 15:11:34,479] Step: click to Save button
+[INFO ] [2022-10-12 15:11:35,276] Step: assert the Results
+[INFO ] [2022-10-12 15:11:35,282] Step: hover on Product Category.
+[INFO ] [2022-10-12 15:11:35,464] Step: select Product Type by Header
+[INFO ] [2022-10-12 15:11:36,090] Step: select Product by Name
+[INFO ] [2022-10-12 15:11:39,531] Step: click to Add your review button.
+[INFO ] [2022-10-12 15:11:40,059] Step: input to madatory Fields.
+[INFO ] [2022-10-12 15:11:40,220] OS name = windows 10
+[INFO ] [2022-10-12 15:11:40,220] Driver instance name = firefoxdriver: firefox on windows (b64719b6-026f-4ca2-a414-bdaf23b1b467)
+[INFO ] [2022-10-12 15:13:27,993] Testcase: class com.nopcommerce.user.Suite_03_My_Account
+[INFO ] [2022-10-12 15:13:27,994] Step: click to Register Link
+[INFO ] [2022-10-12 15:13:28,515] Step: click to Register button
+[INFO ] [2022-10-12 15:13:28,795] Step: Input to FirstName textbox: Nguyen
+[INFO ] [2022-10-12 15:13:28,880] Step: Input to LastName textbox: Xsang
+[INFO ] [2022-10-12 15:13:28,970] Step: Input to Email textbox: seleniumonline7989@mailinator.com
+[INFO ] [2022-10-12 15:13:29,068] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-12 15:13:29,157] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-12 15:13:29,250] Step: click to Register button
+[INFO ] [2022-10-12 15:13:30,019] Step: Assert the results
+[INFO ] [2022-10-12 15:13:30,069] Step: click to Logout button
+[INFO ] [2022-10-12 15:13:30,886] Step: click to Login link
+[INFO ] [2022-10-12 15:13:31,437] Step: input to Email textboxseleniumonline7989@mailinator.com
+[INFO ] [2022-10-12 15:13:31,532] Step: input to Password textbox: Abc@123
+[INFO ] [2022-10-12 15:13:31,620] Step: click to Login button
+[INFO ] [2022-10-12 15:13:32,531] Step: assert the Results
+[INFO ] [2022-10-12 15:13:34,717] Step: click to Save button
+[INFO ] [2022-10-12 15:13:35,496] Step: open My Account menu: Addresses
+[INFO ] [2022-10-12 15:13:35,950] Step: change driver to Addresses page
+[INFO ] [2022-10-12 15:13:35,951] Step: click to Add New button
+[INFO ] [2022-10-12 15:13:36,604] Step: input to required Fields
+[INFO ] [2022-10-12 15:13:37,804] Step: click to Save button
+[INFO ] [2022-10-12 15:13:38,545] Step: assert the Results
+[INFO ] [2022-10-12 15:13:38,550] Step: hover on Product Category.
+[INFO ] [2022-10-12 15:13:38,728] Step: select Product Type by Header
+[INFO ] [2022-10-12 15:13:39,239] Step: select Product by Name
+[INFO ] [2022-10-12 15:13:42,110] Step: click to Add your review button.
+[INFO ] [2022-10-12 15:13:42,596] Step: input to madatory Fields.
+[INFO ] [2022-10-12 15:13:42,756] OS name = windows 10
+[INFO ] [2022-10-12 15:13:42,756] Driver instance name = firefoxdriver: firefox on windows (19d31f28-a47c-4fad-9b80-1c395b156526)
+[INFO ] [2022-10-15 11:39:53,730] OS name = windows 10
+[INFO ] [2022-10-15 11:39:53,731] 
+[INFO ] [2022-10-15 11:40:28,588] Testcase: class com.nopcommerce.user.Suite_05_Search
+[INFO ] [2022-10-15 11:40:28,734] OS name = windows 10
+[INFO ] [2022-10-15 11:40:28,734] Driver instance name = firefoxdriver: firefox on windows (f363e669-000e-4786-83df-333a60bcfdb6)
+[INFO ] [2022-10-15 11:42:29,504] Testcase: class com.nopcommerce.user.Suite_05_Search
+[INFO ] [2022-10-15 11:42:29,627] OS name = windows 10
+[INFO ] [2022-10-15 11:42:29,627] Driver instance name = firefoxdriver: firefox on windows (fdadb3f9-07b7-4e24-83e4-86e3206490f4)
+[INFO ] [2022-10-15 11:43:13,789] OS name = windows 10
+[INFO ] [2022-10-15 11:43:13,790] 
+[INFO ] [2022-10-15 11:43:22,998] Testcase: class com.nopcommerce.user.Suite_05_Search
+[INFO ] [2022-10-15 11:43:24,541] Step: Input to Email textbox: seleniumonline2993@mailinator.com
+[INFO ] [2022-10-15 11:43:24,640] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-15 11:43:24,732] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-15 11:43:24,823] Step: click to Register button
+[INFO ] [2022-10-15 11:43:26,328] Step: click to Search Hyperlink at Footer
+[INFO ] [2022-10-15 11:43:26,789] Step: enter Keywords to Search Keywords textbox
+[INFO ] [2022-10-15 11:43:26,874] Step: click to Search button.
+[INFO ] [2022-10-15 11:43:26,990] Step: verify the Result
+[INFO ] [2022-10-15 11:43:27,133] OS name = windows 10
+[INFO ] [2022-10-15 11:43:27,133] Driver instance name = firefoxdriver: firefox on windows (027a4ba9-29ae-44df-8925-af7a864a0c8b)
+[INFO ] [2022-10-15 11:44:14,330] Testcase: class com.nopcommerce.user.Suite_05_Search
+[INFO ] [2022-10-15 11:44:15,424] Step: Input to Email textbox: seleniumonline54325@mailinator.com
+[INFO ] [2022-10-15 11:44:15,529] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-15 11:44:15,616] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-15 11:44:15,710] Step: click to Register button
+[INFO ] [2022-10-15 11:44:17,233] Step: click to Search Hyperlink at Footer
+[INFO ] [2022-10-15 11:44:17,691] Step: enter Keywords to Search Keywords textbox
+[INFO ] [2022-10-15 11:44:17,764] Step: click to Search button.
+[INFO ] [2022-10-15 11:44:17,873] Step: verify the Result
+[INFO ] [2022-10-15 11:44:18,009] OS name = windows 10
+[INFO ] [2022-10-15 11:44:18,009] Driver instance name = firefoxdriver: firefox on windows (ed60320f-7b85-4bf5-a9b9-b6046a078809)
+[INFO ] [2022-10-15 11:51:28,308] Testcase: class com.nopcommerce.user.Suite_05_Search
+[INFO ] [2022-10-15 11:51:29,887] Step: Input to Email textbox: seleniumonline88304@mailinator.com
+[INFO ] [2022-10-15 11:51:29,988] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-15 11:51:30,077] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-15 11:51:30,168] Step: click to Register button
+[INFO ] [2022-10-15 11:51:31,580] Step: click to Search Hyperlink at Footer
+[INFO ] [2022-10-15 11:51:32,109] Step: enter Keywords to Search Keywords textbox
+[INFO ] [2022-10-15 11:51:32,186] Step: click to Search button.
+[INFO ] [2022-10-15 11:51:32,292] Step: verify the Result.
+[INFO ] [2022-10-15 11:54:20,355] Testcase: class com.nopcommerce.user.Suite_05_Search
+[INFO ] [2022-10-15 11:54:21,854] Step: Input to Email textbox: seleniumonline60351@mailinator.com
+[INFO ] [2022-10-15 11:54:21,954] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-15 11:54:22,045] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-15 11:54:22,138] Step: click to Register button
+[INFO ] [2022-10-15 11:54:23,580] Step: click to Search Hyperlink at Footer
+[INFO ] [2022-10-15 11:54:24,059] Step: enter Keywords to Search Keywords textbox
+[INFO ] [2022-10-15 11:54:24,136] Step: click to Search button.
+[INFO ] [2022-10-15 11:54:24,516] Step: verify the Result.
+[INFO ] [2022-10-15 11:54:24,559]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-15 12:01:16,724] Testcase: class com.nopcommerce.user.Suite_05_Search
+[INFO ] [2022-10-15 12:01:18,333] Step: Input to Email textbox: seleniumonline76718@mailinator.com
+[INFO ] [2022-10-15 12:01:18,434] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-15 12:01:18,523] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-15 12:01:18,615] Step: click to Register button
+[INFO ] [2022-10-15 12:01:20,126] Step: click to Search Hyperlink at Footer
+[INFO ] [2022-10-15 12:01:20,575] Step: enter Keywords to Search Keywords textbox
+[INFO ] [2022-10-15 12:01:20,656] Step: click to Search button.
+[INFO ] [2022-10-15 12:01:21,087] Step: verify the Result.
+[INFO ] [2022-10-15 12:01:21,142]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-15 12:01:21,184] Step: click to Search Hyperlink at Footer
+[INFO ] [2022-10-15 12:01:21,591] Step: enter Keywords to Search Keywords textbox
+[INFO ] [2022-10-15 12:01:21,676] Step: click to Search button.
+[INFO ] [2022-10-15 12:01:22,134] Step: verify the Result.
+[INFO ] [2022-10-15 12:01:22,184]  -------------------------- PASSED -------------------------- 

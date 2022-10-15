@@ -1,0 +1,15 @@
+[INFO ] [2022-10-15 12:01:16,724] Testcase: class com.nopcommerce.user.Suite_05_Search
+[INFO ] [2022-10-15 12:01:18,333] Step: Input to Email textbox: seleniumonline76718@mailinator.com
+[INFO ] [2022-10-15 12:01:18,434] Step: Input to Password textbox: Abc@123
+[INFO ] [2022-10-15 12:01:18,523] Step: Input to ConfirmPassword textbox: Abc@123
+[INFO ] [2022-10-15 12:01:18,615] Step: click to Register button
+[INFO ] [2022-10-15 12:01:20,126] Step: click to Search Hyperlink at Footer
+[INFO ] [2022-10-15 12:01:20,575] Step: enter Keywords to Search Keywords textbox
+[INFO ] [2022-10-15 12:01:20,656] Step: click to Search button.
+[INFO ] [2022-10-15 12:01:21,087] Step: verify the Result.
+[INFO ] [2022-10-15 12:01:21,142]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-15 12:01:21,184] Step: click to Search Hyperlink at Footer
+[INFO ] [2022-10-15 12:01:21,591] Step: enter Keywords to Search Keywords textbox
+[INFO ] [2022-10-15 12:01:21,676] Step: click to Search button.
+[INFO ] [2022-10-15 12:01:22,134] Step: verify the Result.
+[INFO ] [2022-10-15 12:01:22,184]  -------------------------- PASSED -------------------------- 
