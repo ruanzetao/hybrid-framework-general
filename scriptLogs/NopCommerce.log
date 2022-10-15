@@ -753,3 +753,9 @@
 [INFO ] [2022-10-15 12:01:21,676] Step: click to Search button.
 [INFO ] [2022-10-15 12:01:22,134] Step: verify the Result.
 [INFO ] [2022-10-15 12:01:22,184]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-15 22:06:41,462] OS name = windows 10
+[INFO ] [2022-10-15 22:06:41,463] 
+[INFO ] [2022-10-15 22:08:46,515] OS name = windows 10
+[INFO ] [2022-10-15 22:08:46,515] 
+[INFO ] [2022-10-15 22:09:22,873] OS name = windows 10
+[INFO ] [2022-10-15 22:09:22,873] Driver instance name = firefoxdriver: firefox on windows (86b199cd-409d-4b51-a4b0-6d3b0133a691)
